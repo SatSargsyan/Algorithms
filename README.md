@@ -13,7 +13,7 @@ Otherwise, it uses a Quicksort algorithm.
 
 
 ### [Insertion sort](https://www.khanacademy.org/computing/computer-science/algorithms/insertion-sort/a/insertion-sort)
-
+[Insertion sort]http://interactivepython.org/runestone/static/pythonds/SortSearch/TheInsertionSort.html)
 
 
 
