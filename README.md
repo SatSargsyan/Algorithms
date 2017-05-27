@@ -21,3 +21,10 @@ Otherwise, it uses a Quicksort algorithm.
 
 [film](https://voriginale.tv/video/the-intern/)
 
+
+
+
+### Binary Search
+
+
+2 rekurciv funkcayov grel khndiry
