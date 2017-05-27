@@ -10,6 +10,8 @@ namespace Recurcia2
     {
         static void Main(string[] args)
         {
+            2
+
         }
     }
 }
