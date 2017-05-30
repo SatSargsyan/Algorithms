@@ -36,3 +36,13 @@ if(k>n) return 0;
 if(k==nk==0)return 1;
 C(n,k)=C(n-1,k-1)+C(n-1,k)
 
+
+### Mutq enq anum 2 amboghj tiv, rekursiv funkcian gtnum veradardznum e aybj
+
+### Aranc ogtacgortselu bajanman u mnnacordn ogtagortselu hashvel ev vardardznel tvi amboghj masy
+
+### Aranc ogtagortselu bazmapatkman gortsoghuty, Veredardznum 2 int-ri artadryaly
+
+### Unenq int-ri zangvats, karucel rekursiv zangvats, vory veradardznum e k-rd min-y
+
+
