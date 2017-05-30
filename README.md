@@ -28,3 +28,11 @@ Otherwise, it uses a Quicksort algorithm.
 
 
 2 rekurciv funkcayov grel khndiry
+
+
+
+#### 
+if(k>n) return 0;
+if(k==nk==0)return 1;
+C(n,k)=C(n-1,k-1)+C(n-1,k)
+
