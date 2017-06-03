@@ -46,3 +46,8 @@ C(n,k)=C(n-1,k-1)+C(n-1,k)
 ### Unenq int-ri zangvats, karucel rekursiv zangvats, vory veradardznum e k-rd min-y
 
 
+### [Insertion sort]()
+
+
+
+
